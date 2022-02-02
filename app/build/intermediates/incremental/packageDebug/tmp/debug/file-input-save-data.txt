@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Wed Feb 02 11:14:24 EST 2022
-1.base=C\:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Wed Feb 02 11:23:15 EST 2022
+1.base=C\:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=DEX
 0.path=classes.dex
 0.set=DEX
-0.base=C\:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+0.base=C\:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 1.path=classes.dex

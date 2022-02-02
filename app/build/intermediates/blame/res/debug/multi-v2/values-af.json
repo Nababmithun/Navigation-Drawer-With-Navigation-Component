@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
+            "outputFile": "C:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
             "map": [
                 {
                     "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\4d1739ff63e1c38df0e5aa78ab3789d7\\res\\values-af\\values-af.xml",

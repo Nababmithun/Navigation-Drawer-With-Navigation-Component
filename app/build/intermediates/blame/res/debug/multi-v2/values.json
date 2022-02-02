@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\b7827d8496f4aca8c9b2110006827ce4\\res\\values\\values.xml",
@@ -59,20 +59,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "64",
-                        "endOffsets": "76"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
                     },
                     "to": {
-                        "startLines": "2410",
-                        "startColumns": "4",
-                        "startOffsets": "149422",
-                        "endColumns": "64",
-                        "endOffsets": "149482"
+                        "startLines": "266,267,268",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "12912,12958,13005",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "12953,13000,13051"
                     }
                 },
                 {
@@ -92,6 +92,23 @@
                         "endLines": "1757,2229,2230,2231,2239,2240,2241,2325",
                         "endColumns": "24,58,47,55,74,75,71,65",
                         "endOffsets": "107916,138376,138424,138480,139166,139242,139314,144300"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "64",
+                        "endOffsets": "76"
+                    },
+                    "to": {
+                        "startLines": "2410",
+                        "startColumns": "4",
+                        "startOffsets": "149422",
+                        "endColumns": "64",
+                        "endOffsets": "149482"
                     }
                 },
                 {
@@ -188,7 +205,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -204,23 +221,6 @@
                         "endLines": "2442",
                         "endColumns": "12",
                         "endOffsets": "152572"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component-master\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153,55,102",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "194,97,148"
-                    },
-                    "to": {
-                        "startLines": "266,267,268",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "12912,12958,13005",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "12953,13000,13051"
                     }
                 },
                 {

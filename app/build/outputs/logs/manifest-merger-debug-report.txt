@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:2:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\d68197ce9c5a315a27b84d95831bb893\AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha06] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-alpha06.aar\6bfb1ee41798654a6774a0aa01ee245d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\982d1efb8be0f0171ea03025db461c85\AndroidManifest.xml:17:1-24:12
@@ -41,25 +41,25 @@ MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP\.gradle\caches\transf
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\d5aecdf83a4ad3b1879ffaa6d5b0e657\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\8ee4e51328c9460940886f207b1c8277\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\c7497700714b291220805f9102467c5c\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:3:5-56
-		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\d68197ce9c5a315a27b84d95831bb893\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\d68197ce9c5a315a27b84d95831bb893\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\982d1efb8be0f0171ea03025db461c85\AndroidManifest.xml:22:5-20
@@ -71,35 +71,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\HP
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\b7827d8496f4aca8c9b2110006827ce4\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.riju.navdrawerandnavcomponent.MainActivity
-ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:exported
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:13:13-36
 	android:name
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:12:19-88
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:12:19-88
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml:17:27-74
 uses-sdk
-INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\d68197ce9c5a315a27b84d95831bb893\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\d68197ce9c5a315a27b84d95831bb893\AndroidManifest.xml:5:5-7:41
 MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha06] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-alpha06.aar\6bfb1ee41798654a6774a0aa01ee245d\AndroidManifest.xml:20:5-44
@@ -174,13 +176,13 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\8ee4e51328c9460940886f207b1c8277\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\c7497700714b291220805f9102467c5c\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\c7497700714b291220805f9102467c5c\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Navigation-Drawer-With-Navigation-Component\app\src\main\AndroidManifest.xml

@@ -1,7 +1,7 @@
-#Wed Feb 02 11:14:24 EST 2022
-base.0=C\:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Wed Feb 02 11:23:15 EST 2022
+base.0=C\:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.1=C\:\\Users\\HP\\Desktop\\Navigation-Drawer-With-Navigation-Component\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
